@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+memory_profiler
+numpy
+jupyter
+python-docx
