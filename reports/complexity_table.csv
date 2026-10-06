@@ -1,0 +1,7 @@
+Algorithm,Theoretical,Largest Size,Time (ms),Memory (KB),Log-log slope,Observed growth
+Linear Search,O(n),50000,29.1193,0.21,1.09,Roughly linear
+Binary Search,O(log n),50000,0.01,0.16,0.05,Almost flat (constant / logarithmic)
+Recursive Factorial,O(n),1000,1.8343,23.98,1.42,Between linear and quadratic
+Iterative Factorial,O(n),1000,2.367,2.37,1.65,Between linear and quadratic
+Single Loop,O(n),50000,13.8235,0.13,1.03,Roughly linear
+Nested Loop,O(n^2),5000,5919.1506,0.23,2.07,Roughly quadratic or worse

@@ -1,0 +1,7 @@
+Algorithm,Size,Time_ms,Memory_KB,Operations
+Recursive Factorial,100,0.072,0.4297,100
+Iterative Factorial,100,0.0443,0.2266,99
+Recursive Factorial,500,0.7911,8.3555,500
+Iterative Factorial,500,0.3536,1.1289,499
+Recursive Factorial,1000,1.8343,23.9805,1000
+Iterative Factorial,1000,2.367,2.3672,999
